@@ -1,1 +1,2 @@
-# STAR_data_analysis
+# STAR_analysis
+アメリカテネシー州で行われたクラスサイズ規模研究プロジェクトに関する分析
